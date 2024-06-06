@@ -1,1 +1,3 @@
-# python_lessons_1605
+# PYTHON_1605_LESSONS
+
+### Код из занятий по Python
